@@ -25,7 +25,5 @@ class ViewController: UIViewController {
             sender.alpha = 1.0
         }
     }
-    
-    
 }
 
